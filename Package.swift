@@ -13,6 +13,6 @@ let package = Package(
        .binaryTarget(
              name: "AnalyticsShared",
              url:"https://github.com/iWillUK/KS/blob/main/AnalyticsShared.xcframework.zip",
-             checksum:"c884df2e5450cfeb1bdcebf3773eafbea3a9ae96b8b6eea286326e0552402791")
+             checksum:"76b1198d4ae8e62eb7b6ccdbd0c54991a061afd487d143974b63a421cb579394")
    ]
 )
