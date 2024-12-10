@@ -9,6 +9,7 @@ let package = Package(
    products: [
       .library(name: "AnalyticsShared", targets: ["AnalyticsShared"])
    ],
+   dependencies: [],
    targets: [
        .binaryTarget(
              name: "AnalyticsShared",
