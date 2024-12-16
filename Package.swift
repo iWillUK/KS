@@ -15,7 +15,7 @@ let package = Package(
    targets: [
        .binaryTarget(
              name: "AnalyticsShared",
-             url:"https://github.com/iWillUK/KS/releases/download/0.0.1/AnalyticsShared.xcframework.zip",
-             checksum:"4546f5b752322f9a9432b1fdcbadbd677030d38dd0bdf53af097d888275ebbcd")
+             url:"https://github.com/iWillUK/KS/releases/download/0.2/AnalyticsShared.xcframework.zip",
+             checksum:"91b9ba050e00e3daf8357b4e82543d98c40e944319a6b627d30b17ab1b4b53bd")
    ]
 )
